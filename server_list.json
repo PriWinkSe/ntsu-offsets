@@ -1,0 +1,218 @@
+[
+	{
+	  	"translated_name": "EXG ZE 1服",
+	  	"ip": "202.189.4.212",
+	  	"port": 27001,
+		"mode": 1
+	},
+	{
+	  	"translated_name": "EXG ZE 2服",
+	  	"ip": "202.189.10.86",
+	  	"port": 27001,
+		"mode": 1
+	},
+	{
+	  	"translated_name": "EXG ZE 3服",
+	  	"ip": "202.189.4.124",
+	  	"port": 27001,
+		"mode": 1
+	},
+	{
+	  	"translated_name": "EXG ZE 4服",
+	  	"ip": "202.189.10.184",
+	  	"port": 27001,
+		"mode": 1
+	},
+	{
+	  	"translated_name": "EXG ZE 6服",
+	  	"ip": "202.189.10.190",
+	  	"port": 27001,
+		"mode": 1
+	},
+	{
+	  	"translated_name": "EXG ZE 7服",
+	  	"ip": "202.189.4.234",
+	  	"port": 27001,
+		"mode": 1
+	},
+	{
+	  	"translated_name": "EXG ZE 8服",
+	  	"ip": "202.189.10.196",
+	  	"port": 27001,
+		"mode": 1
+	},
+	{
+	  	"translated_name": "EXG ZE 11服",
+	  	"ip": "202.189.10.208",
+	  	"port": 27001,
+		"mode": 1
+	},
+	{
+	  	"translated_name": "EXG ZE 12服",
+	  	"ip": "202.189.5.225",
+	  	"port": 27001,
+		"mode": 1
+	},
+	{
+	  	"translated_name": "EXG ZE 13服",
+	  	"ip": "202.189.5.227",
+	  	"port": 27001,
+		"mode": 1
+	},
+	{
+	  	"translated_name": "EXG ZE 14服",
+	  	"ip": "202.189.5.234",
+	  	"port": 27003,
+		"mode": 1
+	},
+	{
+	  	"translated_name": "FYS ZE 1服",
+	  	"ip": "110.42.9.155",
+	  	"port": 27015,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "FYS ZE 2服",
+	  	"ip": "110.42.9.203",
+	  	"port": 27025,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "FYS ZE 3服",
+	  	"ip": "110.42.9.139",
+	  	"port": 27035,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "FYS ZE 4服",
+	  	"ip": "110.42.9.138",
+	  	"port": 27045,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "FYS ZE 5服",
+	  	"ip": "110.42.9.138",
+	  	"port": 27055,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "FYS ZE 6服",
+	  	"ip": "110.42.9.107",
+	  	"port": 27065,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "FYS ZE 7服",
+	  	"ip": "110.42.9.139",
+	  	"port": 27075,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "FYS ZE 8服",
+		"ip": "110.42.9.107",
+	  	"port": 27085,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "FYS ZE 9服",
+	  	"ip": "110.42.9.231",
+	  	"port": 27095,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "FYS ZE 10服",
+	  	"ip": "110.42.9.107",
+	  	"port": 27105,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "UB ZE 1服",
+	  	"ip": "110.42.9.188",
+	  	"port": 27011,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "UB ZE 2服",
+	  	"ip": "110.42.9.188",
+	  	"port": 27021,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "UB ZE 3服",
+	  	"ip": "110.42.9.188",
+	  	"port": 27031,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "UB ZE 5服",
+	  	"ip": "110.42.9.127",
+	  	"port": 27051,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "UB ZE 6服",
+	  	"ip": "110.42.9.127",
+	  	"port": 27061,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "UB ZE 7服",
+	  	"ip": "110.42.9.127",
+	  	"port": 27071,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "UB ZE 11服",
+	  	"ip": "110.42.9.195",
+	  	"port": 27111,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "UB ZE 12服",
+	  	"ip": "110.42.9.195",
+	  	"port": 27121,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "UB ZE 13服",
+	  	"ip": "110.42.9.195",
+	  	"port": 27131,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "ZED ZE 2服",
+	  	"ip": "cs1.zombieden.cn",
+	  	"port": 27016,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "ZED ZE 3服",
+	  	"ip": "cs3.zombieden.cn",
+	  	"port": 27015,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "ZED ZE 4服",
+	  	"ip": "cs3.zombieden.cn",
+	  	"port": 27016,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "ZED ZE 5服",
+	  	"ip": "cs5.zombieden.cn",
+	  	"port": 27015,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "ZED ZE 6服",
+	  	"ip": "cs5.zombieden.cn",
+	  	"port": 27016,
+		"mode": 0
+	},
+	{
+	  	"translated_name": "GFL ZE 1服",
+	  	"ip": "74.91.124.21",
+	  	"port": 27015,
+		"mode": 0
+	}
+]
