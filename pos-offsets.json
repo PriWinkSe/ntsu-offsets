@@ -1,6 +1,14 @@
 {
+  "csgo": {
+    "dwEngineViewData": 60038200,
+    "m_iHealth": 256,
+    "m_vecVelocity": 276,
+    "dwLocalPlayer": 14612860
+  },
+  "csgo2": {
     "dwEngineViewData": 6253020,
     "m_iHealth": 844,
     "m_vecVelocity": 1072,
     "dwLocalPlayerPawn": 29273784
+  }
 }
